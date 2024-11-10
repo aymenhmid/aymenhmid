@@ -1,6 +1,8 @@
 
 <img src="1728398033498.jpeg" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AymenHmid&label=Profile%20views&color=0e75b6&style=flat" alt="AymenHmid" /> </p>
+
 # Hello 👋 i'm Aymen Hmid
 
 
