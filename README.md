@@ -35,8 +35,8 @@ Hello! I'm Aymen Hmid, an enthusiastic Software Engineer with a keen interest in
 
 <a href="https://github.com/AymenHimd">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AymenHmid&theme=city_lights&hide_border=false&show_icons=true&locale=en&layout=compact" alt="AymenHmid" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AymenHmid&theme=city_lights&show_icons=true" alt="AymenHmid" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AymenHmid&theme=city_lights&hide_border=false&show_icons=true&locale=en&layout=compact" alt="AymenHmid" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AymenHmid&theme=city_lights&show_icons=true" alt="AymenHmid" />
 
 </a>
 </p>
