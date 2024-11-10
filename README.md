@@ -29,8 +29,8 @@ Hello! I'm Aymen Hmid, an enthusiastic Software Engineer with a keen interest in
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-***Github Stats***
-
+<details open> 
+<summary><h2>📊 GitHub Stats:</h2></summary>
 <p align="center" >
 
 <a href="https://github.com/AymenHimd">
@@ -40,3 +40,4 @@ Hello! I'm Aymen Hmid, an enthusiastic Software Engineer with a keen interest in
 
 </a>
 </p>
+</details>
